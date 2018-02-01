@@ -8,6 +8,6 @@ Should have a google chrome webdriver pre installed....(https://sites.google.com
 
 How to run ?
 
-$ scrapy crawl youtube -a video="mit introduction to algorithms"
+$ scrapy crawl youtube -a video="MIT introduction to algorithms"
 
---It will open Google Chrome and load youtube for you and seraches for "MIT introduction to algorithms" and plays the playlist for you
+--It will open Google Chrome and load youtube for you and seraches for "MIT introduction to algorithms" and plays the playlist for you...
